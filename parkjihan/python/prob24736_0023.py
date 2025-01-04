@@ -1,0 +1,1 @@
+print(' '.join([str(t*6+f*3+s*2+p+c*2) for t,f,s,p,c in [list(map(int,input().split())) for _ in range(2)]]))
