@@ -1,0 +1,1 @@
+print("pass") if int(input())==100 else print("failure")

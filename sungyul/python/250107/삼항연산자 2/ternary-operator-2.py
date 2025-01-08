@@ -1,0 +1,1 @@
+print("t") if int(input())==1 else print("f")
