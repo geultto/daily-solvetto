@@ -1,0 +1,1 @@
+print(sum([(1 if int(input()) % 2 != 0 else 0) for _ in range(int(input()))]))
